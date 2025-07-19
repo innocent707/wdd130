@@ -21,7 +21,7 @@ header {
 
 body {
     font-family: var(--body-font);
-    color: var(--primary-color);
+    color: var(--primary-color); 
 }
 
 header, main, footer {
