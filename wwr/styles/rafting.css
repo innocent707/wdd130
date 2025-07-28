@@ -124,9 +124,22 @@ footer {
 .adventurous img {
     width: 120px;
     height: auto;
-    margin-left: 30px;
+
 }
 
-h2 {
+h2{
     text-align: center;
+    padding: 5px;
+}
+
+.adventurous figure {
+    color: #264653;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.adventurous {
+    display: flex;
+
 }
